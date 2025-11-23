@@ -1,0 +1,1 @@
+give @s chest[container_loot={loot_table:"joe:god_loot_table"}]
