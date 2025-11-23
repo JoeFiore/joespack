@@ -19,7 +19,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "diamond_helmet",
+          "name": "minecraft:diamond_helmet",
           "quality": 1,
           "functions": [
             {
