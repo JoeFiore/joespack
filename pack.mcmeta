@@ -1,7 +1,6 @@
 {
     "pack": {
-      "pack_format": 26,
-      "description": "test"
+        "pack_format": 48,
+        "description": "Joe's Pack"
     }
 }
-  
