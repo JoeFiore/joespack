@@ -1,1 +1,0 @@
-summon zombie ~1 ~2 ~1 {DeathLootTable:"joe:boss_loot",equipment:{mainhand:{id:netherite_sword},offhand:{id:totem_of_undying},head:{id:netherite_helmet},chest:{id:netherite_chestplate},legs:{id:netherite_leggings},feet:{id:netherite_boots}},drop_chances:{mainhand:0f}}
