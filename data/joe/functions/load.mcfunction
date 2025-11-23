@@ -1,0 +1,1 @@
+tellraw @a "Joe's Pack has been enabled!"
