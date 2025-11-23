@@ -178,7 +178,12 @@
           "type": "minecraft:item",
           "name": "minecraft:firework_rocket",
           "quality": 256,
-          "functions": []
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 256
+            }
+          ]
         }
       ]
     },
@@ -188,7 +193,13 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:wind_charge",
-          "quality": 128
+          "quality": 128,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 128
+            }
+          ]
         }
       ]
     },
@@ -198,9 +209,15 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:ender_pearl",
-          "quality": 16
+          "quality": 16,
+          "conditions": [],
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 16
+            }
+          ]
         }
-        
       ]
     },
     {
@@ -209,9 +226,23 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:enchanted_golden_apple",
-          "quality": 64
+          "quality": 64,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 64
+            }
+          ]
         }
-        
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:totem_of_undying"
+        }
       ]
     }
   ]
